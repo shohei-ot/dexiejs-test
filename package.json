@@ -1,0 +1,19 @@
+{
+  "name": "dexiejs-test",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "shohei-ot",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.8.3",
+    "poi": "^10.1.2",
+    "sass-loader": "^7.0.1"
+  },
+  "scripts": {
+    "build": "poi build",
+    "dev": "poi"
+  },
+  "dependencies": {
+    "dexie": "^2.0.2"
+  }
+}
